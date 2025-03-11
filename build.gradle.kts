@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.powersync:core:1.0.0-BETA25")
+    implementation("com.powersync:core:1.0.0-BETA27")
     implementation("com.powersync:connector-supabase:1.0.0-BETA25")
 
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.9.0")
